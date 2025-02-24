@@ -1,0 +1,5 @@
+/iampass-website
+│── index.html
+│── styles.css
+│── script.js
+│── /assets (for images, logos, icons)
